@@ -1,2 +1,2 @@
-# erdos-root-insurance
-Erdos Institute bootcamp project 2021 
+# Erdos Root Insurance
+Erdos Institute Root Insurance bootcamp project 2021 
